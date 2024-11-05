@@ -1,0 +1,28 @@
+array = []
+array2 = Array.from({length:0})
+array3 = new Array()
+
+Array data types
+
+array.map()==>mutatsiya=o'zgartirish qilmaydi va yangi array qaytaradi
+array.filter()==>
+array.includes()
+array.some()
+array.splice(boshi, nechta, joyiga qo'shadi) o'chirilgandi joyiga faqat 1 qo'shsak bo'ladi
+array.slice()
+array.every()
+array.sort()
+array.push()
+array.pop()
+array.shift()
+array.unshift()
+array.forEach()
+array.redact()
+array.map()
+array.map()
+array.map()
+array.map()
+array.map()
+array.map()
+array.map()
+array.map()
